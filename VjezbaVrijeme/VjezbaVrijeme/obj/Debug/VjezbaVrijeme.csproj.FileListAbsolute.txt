@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\VjezbaVrijeme\VjezbaVrijeme\bin\Debug\VjezbaVrijeme.exe.config
+C:\Users\HP\source\repos\VjezbaVrijeme\VjezbaVrijeme\bin\Debug\VjezbaVrijeme.exe
+C:\Users\HP\source\repos\VjezbaVrijeme\VjezbaVrijeme\bin\Debug\VjezbaVrijeme.pdb
+C:\Users\HP\source\repos\VjezbaVrijeme\VjezbaVrijeme\obj\Debug\VjezbaVrijeme.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\VjezbaVrijeme\VjezbaVrijeme\obj\Debug\VjezbaVrijeme.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\VjezbaVrijeme\VjezbaVrijeme\obj\Debug\VjezbaVrijeme.Form1.resources
+C:\Users\HP\source\repos\VjezbaVrijeme\VjezbaVrijeme\obj\Debug\VjezbaVrijeme.Properties.Resources.resources
+C:\Users\HP\source\repos\VjezbaVrijeme\VjezbaVrijeme\obj\Debug\VjezbaVrijeme.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\VjezbaVrijeme\VjezbaVrijeme\obj\Debug\VjezbaVrijeme.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\VjezbaVrijeme\VjezbaVrijeme\obj\Debug\VjezbaVrijeme.exe
+C:\Users\HP\source\repos\VjezbaVrijeme\VjezbaVrijeme\obj\Debug\VjezbaVrijeme.pdb
